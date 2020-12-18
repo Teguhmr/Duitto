@@ -1,60 +1,54 @@
-## Privacy Policy
+## Kebijakan Privasi
 
-RPL built the Duitto app as an Open Source app. This SERVICE is provided by Kelompok 2 RPL at no cost and is intended for use as is.
+RPL Kelompok 2 membangun aplikasi Duitto sebagai aplikasi Open Source. LAYANAN ini disediakan oleh Kelompok 2 RPL tanpa biaya dan dimaksudkan untuk digunakan sebagaimana adanya.
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+Halaman ini digunakan untuk memberi tahu pengunjung mengenai kebijakan saya dengan pengumpulan, penggunaan, dan pengungkapan Informasi Pribadi jika ada yang memutuskan untuk menggunakan Layanan saya.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+Jika Anda memilih untuk menggunakan Layanan saya, maka Anda menyetujui pengumpulan dan penggunaan informasi sehubungan dengan kebijakan ini. Informasi Pribadi yang saya kumpulkan digunakan untuk menyediakan dan meningkatkan Layanan. Saya tidak akan menggunakan atau membagikan informasi Anda dengan siapa pun kecuali seperti yang dijelaskan dalam Kebijakan Privasi ini.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Budgetto unless otherwise defined in this Privacy Policy.
+**Pengumpulan dan Penggunaan Informasi**
 
-**Information Collection and Use**
+Untuk pengalaman yang lebih baik, saat menggunakan Layanan kami, saya mungkin meminta Anda untuk memberikan kami informasi pengenal pribadi tertentu, namun tidak terbatas pada informasi akun Google. Informasi yang saya minta akan disimpan di perangkat Anda dan tidak saya kumpulkan dengan cara apa pun.
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Google account information. The information that I request will be retained on your device and is not collected by me in any way.
+Aplikasi memang menggunakan layanan pihak ketiga yang dapat mengumpulkan informasi yang digunakan untuk mengidentifikasi Anda.
 
-The app does use third party services that may collect information used to identify you.
+Tautan ke kebijakan privasi penyedia layanan pihak ketiga yang digunakan oleh aplikasi
 
-Link to privacy policy of third party service providers used by the app
+*[Layanan Google Play] (https://www.google.com/policies/privacy/)
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
+**Cookie**
 
-**Log Data**
+Cookie adalah file dengan sejumlah kecil data yang biasanya digunakan sebagai pengenal unik anonim. Ini dikirim ke browser Anda dari situs web yang Anda kunjungi dan disimpan di memori internal perangkat Anda.
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+Layanan ini tidak menggunakan "cookie" ini secara eksplisit. Namun, aplikasi dapat menggunakan kode dan pustaka pihak ketiga yang menggunakan "cookie" untuk mengumpulkan informasi dan meningkatkan layanan mereka. Anda memiliki opsi untuk menerima atau menolak cookie ini dan mengetahui kapan cookie dikirim ke perangkat Anda. Jika Anda memilih untuk menolak cookie kami, Anda mungkin tidak dapat menggunakan beberapa bagian dari Layanan ini.
 
-**Cookies**
+**Penyedia jasa**
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+Saya dapat menggunakan perusahaan pihak ketiga dan individu karena alasan berikut:
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+* Untuk memfasilitasi Layanan kami;
+* Untuk menyediakan Layanan atas nama kami;
+* Untuk melakukan layanan terkait Layanan; atau
+* Untuk membantu kami dalam menganalisis bagaimana Layanan kami digunakan.
 
-**Service Providers**
+Saya ingin memberi tahu pengguna Layanan ini bahwa pihak ketiga ini memiliki akses ke Informasi Pribadi Anda. Alasannya adalah untuk melakukan tugas yang diberikan kepada mereka atas nama kami. Namun, mereka berkewajiban untuk tidak mengungkapkan atau menggunakan informasi tersebut untuk tujuan lain apa pun.
 
-I may employ third-party companies and individuals due to the following reasons:
+**Keamanan**
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+Saya menghargai kepercayaan Anda dalam memberikan Informasi Pribadi Anda kepada kami, oleh karena itu kami berusaha untuk menggunakan cara yang dapat diterima secara komersial untuk melindunginya. Tetapi ingat bahwa tidak ada metode transmisi melalui internet, atau metode penyimpanan elektronik yang 100% aman dan dapat diandalkan, dan saya tidak dapat menjamin keamanan absolutnya.
 
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+**Tautan ke Situs Lain**
 
-**Security**
+Layanan ini mungkin berisi tautan ke situs lain. Jika Anda mengklik tautan pihak ketiga, Anda akan diarahkan ke situs itu. Perhatikan bahwa situs eksternal ini tidak dioperasikan oleh saya. Oleh karena itu, saya sangat menyarankan Anda untuk meninjau Kebijakan Privasi situs web ini. Saya tidak memiliki kendali atas dan tidak bertanggung jawab atas konten, kebijakan privasi, atau praktik situs atau layanan pihak ketiga mana pun.
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+**Privasi Anak-Anak**
 
-**Links to Other Sites**
+Layanan ini tidak ditujukan kepada siapa pun yang berusia di bawah 13 tahun. Saya tidak dengan sengaja mengumpulkan informasi yang dapat diidentifikasi secara pribadi dari anak-anak di bawah 13 tahun . Jika saya menemukan bahwa seorang anak di bawah 13 tahun telah memberi saya informasi pribadi, saya segera menghapusnya dari server kami. Jika Anda adalah orang tua atau wali dan Anda mengetahui bahwa anak Anda telah memberi kami informasi pribadi, silakan hubungi saya sehingga saya dapat melakukan tindakan yang diperlukan.
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+**Perubahan pada Kebijakan Privasi Ini**
 
-**Children’s Privacy**
+Saya dapat memperbarui Kebijakan Privasi kami dari waktu ke waktu. Dengan demikian, Anda disarankan untuk meninjau halaman ini secara berkala untuk setiap perubahan. Saya akan memberi tahu Anda tentang perubahan apa pun dengan memposting Kebijakan Privasi baru di halaman ini. Perubahan ini efektif segera setelah diposting di halaman ini.
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13\. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+**Hubungi kami**
 
-**Changes to This Privacy Policy**
-
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
-
-**Contact Us**
-
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at teguhmr16@gmail.com.
+Jika Anda memiliki pertanyaan atau saran tentang Kebijakan Privasi saya, jangan ragu untuk menghubungi saya di teguhmr16@gmail.com.
