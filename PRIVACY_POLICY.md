@@ -51,4 +51,4 @@ Saya dapat memperbarui Kebijakan Privasi kami dari waktu ke waktu. Dengan demiki
 
 **Hubungi kami**
 
-Jika Anda memiliki pertanyaan atau saran tentang Kebijakan Privasi saya, jangan ragu untuk menghubungi saya di teguhmr16@gmail.com.
+Aplikasi ini mungkin sedang tahap pengembangan. Jika Anda memiliki pertanyaan atau saran tentang Aplikasi atau Kebijakan Privasi saya, jangan ragu untuk menghubungi saya di teguhmr16@gmail.com.
