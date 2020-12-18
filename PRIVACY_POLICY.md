@@ -1,6 +1,6 @@
 ## Kebijakan Privasi
 
-RPL Kelompok 2 membangun aplikasi Duitto sebagai aplikasi Statistik Pengeluaran Keuangan. Layanan ini disediakan oleh Kelompok 2 RPL tanpa biaya dan dimaksudkan untuk digunakan sebagaimana adanya.
+Kelompok 2 RPL membangun aplikasi Duitto sebagai aplikasi Statistik Pengeluaran Keuangan. Layanan ini disediakan oleh Kelompok 2 RPL tanpa biaya dan dimaksudkan untuk digunakan sebagaimana adanya.
 
 Halaman ini digunakan untuk memberi tahu pengunjung mengenai kebijakan saya dengan pengumpulan, penggunaan, dan pengungkapan Informasi Pribadi jika ada yang memutuskan untuk menggunakan Layanan saya.
 
